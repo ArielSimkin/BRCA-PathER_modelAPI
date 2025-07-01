@@ -212,7 +212,7 @@ print("Confusion Matrix:")
 print(conf_matrix)
 
 #saving the model
-base_model.save('AXAHv1.keras')
+#add your saving command with choosed name
 
 
 
